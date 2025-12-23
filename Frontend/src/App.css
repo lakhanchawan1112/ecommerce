@@ -40,3 +40,23 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.ctn-admin-login {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.seller-form {
+  /* display: flex;
+  flex-direction: column; */
+  width: 300px;
+}
+
+.seller-form > div {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin: 10px 0;
+}
