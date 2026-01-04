@@ -10,5 +10,3 @@ router.get("/dashboard", verifyToken, isAdmin, (req, res) => {
 })
 
 module.exports = router;
-
-app.listen
